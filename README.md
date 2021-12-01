@@ -31,6 +31,7 @@
 
  - For clarity, let's also prefix our scripts with our initials (e.g., `at_script_name1.R` or `ast_script_name1.R` for me) and save each script in the respective day-folder
  - I will put the instructions (and link to the problem) in a text file in each folder
+ - Inputs are unique to users, so you will not get the correct answer if you use somebody else's input file
  - We can update these instructions once we know what is useful. For now, this serves as a starting place for organizing this
  - Feel free to edit as you see fit! 
 
