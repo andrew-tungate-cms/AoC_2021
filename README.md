@@ -13,10 +13,14 @@
         |-- day1_readme.txt
         |-- at_script_name1.R
         |-- ac_script_name1.py
+        |-- Inputs
+            |-- at_input_name1.txt
     |-- Day 2
         |-- day2_readme.txt
         |-- at_script_name2.R
         |-- lm_script_name2.py
+        |-- Inputs
+            |-- at_input_name2.txt
     |-- Day 3
     |-- Day 4
     ...
@@ -32,3 +36,7 @@
 
 Note: I do not plan to dedicate much (if any) work-time to this, but wanted it on my work Github in-case it could ever be a coding resource for someone in the future. 
 
+### Private Leaderboard Code:
+```
+1619878-fc773c0d
+```
