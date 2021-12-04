@@ -52,6 +52,9 @@ last(forward_vec) * last(depth_aim_vec)
 
 
 
+# Saving data for future reference
+writeLines(as.character(input),
+           here::here("2021", "Day 2", "Inputs", "at_day2_input.txt"))
 
 
 
